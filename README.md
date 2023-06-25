@@ -5,3 +5,5 @@
 
 # Requirements
 The code must be connected to the OS linked to the robot. Any changes in the V+ programming language can be done on a notepad
+
+![diagram](https://github.com/joseashly999/Staubli_towerbuild/blob/main/tower1.png)
